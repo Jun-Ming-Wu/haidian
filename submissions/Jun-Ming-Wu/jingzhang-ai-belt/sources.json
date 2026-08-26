@@ -42,6 +42,36 @@
       "path": "brief/site-package/agent_taskbook.json",
       "source_type": "user_provided_cleared",
       "usage": "Agent-facing open-call principles, six required agent tasks, scenario/branding/operation requirements, and boundary clause."
+    },
+    {
+      "id": "CASE-A01",
+      "path": "proposal.md#全球AI创新生态案例（5个） / proposal.en.md#Global AI innovation cases",
+      "source_type": "public_common_knowledge",
+      "usage": "Design-analogy reference ONLY; not verified case-by-case; must not be cited as factual evidence. Silicon Valley Sand Hill Road ecosystem - venture capital + university origination + startup culture (design analogy, unverified)"
+    },
+    {
+      "id": "CASE-A02",
+      "path": "proposal.md#全球AI创新生态案例（5个） / proposal.en.md#Global AI innovation cases",
+      "source_type": "public_common_knowledge",
+      "usage": "Design-analogy reference ONLY; not verified case-by-case; must not be cited as factual evidence. Shenzhen Nanshan Science Park - government-enterprise synergy and industrial clustering (design analogy, unverified)"
+    },
+    {
+      "id": "CASE-A03",
+      "path": "proposal.md#全球AI创新生态案例（5个） / proposal.en.md#Global AI innovation cases",
+      "source_type": "public_common_knowledge",
+      "usage": "Design-analogy reference ONLY; not verified case-by-case; must not be cited as factual evidence. Kashiwa-no-ha Smart City, Tokyo - PPP smart-city test field driven by universities (design analogy, unverified)"
+    },
+    {
+      "id": "CASE-A04",
+      "path": "proposal.md#全球AI创新生态案例（5个） / proposal.en.md#Global AI innovation cases",
+      "source_type": "public_common_knowledge",
+      "usage": "Design-analogy reference ONLY; not verified case-by-case; must not be cited as factual evidence. Kings Cross, London - railway heritage regeneration with public-space-led mixed use (design analogy, unverified)"
+    },
+    {
+      "id": "CASE-A05",
+      "path": "proposal.md#全球AI创新生态案例（5个） / proposal.en.md#Global AI innovation cases",
+      "source_type": "public_common_knowledge",
+      "usage": "Design-analogy reference ONLY; not verified case-by-case; must not be cited as factual evidence. Seoul DMC - digital media city integrating culture-tech and international communication (design analogy, unverified)"
     }
   ]
 }

@@ -23,7 +23,7 @@ translation_file: "proposal.en.md"
 资料登记表的使用边界如下：
 
 - data/source_registry.json 登记公开、清权与临时资料的用途边界。
-- 当前登记摘要：formal 可用资料 5 条，背景资料 0 条，provisional-only 资料 1 条。
+- 当前登记摘要：formal 可用资料 7 条，背景资料 1 条，provisional-only 资料 1 条（合计登记 9 条）。
 - agent 不得把 background_only 或 provisional_only 资料升级为 official boundary、法定控规、正式评分依据或政府实施承诺。
 
 `data/processed/agent_fact_pack.md` 是本方案的阅读导航层，不是新的权威来源。[source:PROCESSED-FACT-PACK] 只帮助 agent 把三层范围、三处重点区、公告任务、agent.1-agent.6、资料可用性和缺资料事项组织成可读方案；所有事实判断仍回到公告来源 [source:OFFICIAL-ANNOUNCEMENT] 与任务书来源 [source:AGENT-TASKBOOK]，并经来源注册表 [source:SOURCE-REGISTRY] 校验，边界与重点区依据分别为 [source:BOUNDARY-SOURCE] 和 [source:KEY-AREA-SOURCE]。
@@ -56,6 +56,9 @@ translation_file: "proposal.en.md"
 
 本方案提出总体概念为 **"京张智脉共生带"**（Jingzhang AI Symbiosis Belt，简称 JZ-AI Belt）。"智脉"取京张铁路的"脉"字与AI智能的"智"字，象征百年铁路文脉与AI创新智能的共生——铁路曾是工业时代的"动脉"，AI是新世纪的"智脉"，两者在此交汇形成面向未来的创新走廊。
 
+> **品牌层级说明：** 总体品牌中文为「京张智脉共生带」，英文唯一正式名称为 **Jingzhang AI Symbiosis Belt**（缩写 JZ-AI Belt）；片区子品牌、活动品牌与传播标题均从属于该名称。全部中英文载体统一采用上述正式名称。
+
+
 **命名体系：**
 
 | 层级 | 中文名称 | 英文名称 | 含义 |
@@ -84,11 +87,13 @@ translation_file: "proposal.en.md"
 
 | 案例 | 城市 | 核心经验 | 海淀借鉴 |
 | --- | --- | --- | --- |
-| 硅谷Sand Hill Road | 旧金山 | 风险资本+高校策源+创业文化的三角循环 | 众智园引入"资本-技术-标准"三角机制 |
-| 深圳南山科技园 | 深圳 | 政企协同、快速迭代、产业链集聚 | 大钟寺借鉴产业集聚和快速验证模式 |
-| 东京柏叶都市 | 东京 | 公私合作、智慧城市测试场、大学城驱动 | 众智园建设全栈测试场和标准治理沙盒 |
-| 伦敦Kings Cross | 伦敦 | 铁路遗址更新、混合功能、公共空间引领 | 京张遗址公园借鉴铁路空间再生策略 |
-| 首尔DMC | 首尔 | 数字媒体城、文化+科技融合、国际传播 | 大钟寺借鉴文化科技融合和国际路演 |
+| 硅谷Sand Hill Road | 旧金山 | 风险资本+高校策源+创业文化的三角循环 | 众智园引入"资本-技术-标准"三角机制 [source:CASE-A01] |
+| 深圳南山科技园 | 深圳 | 政企协同、快速迭代、产业链集聚 | 大钟寺借鉴产业集聚和快速验证模式 [source:CASE-A02] |
+| 东京柏叶都市 | 东京 | 公私合作、智慧城市测试场、大学城驱动 | 众智园建设全栈测试场和标准治理沙盒 [source:CASE-A03] |
+| 伦敦Kings Cross | 伦敦 | 铁路遗址更新、混合功能、公共空间引领 | 京张遗址公园借鉴铁路空间再生策略 [source:CASE-A04] |
+| 首尔DMC | 首尔 | 数字媒体城、文化+科技融合、国际传播 | 大钟寺借鉴文化科技融合和国际路演 [source:CASE-A05] |
+
+> **案例来源说明：** 以上 5 个案例为公开常识层面的**设计类比**，未逐一核验原始文献，登记于 sources.json（CASE-A01～A05，class=design_analogy，verified=false）；仅用于方案构思参照，不构成可核验事实引证。进入深化阶段前须补充发布者、标题、链接、日期与许可信息，否则删除相应表述。[source:SOURCE-REGISTRY]
 
 ### AI创新生态图谱
 
@@ -317,7 +322,7 @@ translation_file: "proposal.en.md"
 品牌识别以"轨道平行线×神经网络节点"为核心图形，形成可延展的活动视觉系统：
 
 - **主图形：** 五条平行轨道线自下而上渐变为神经网络节点连线，象征百年铁路向AI智脉的演化
-- **双语字标：** 中文标准字"京张智脉"与英文 "Jingzhang AI Spine"，横竖两版栅格对齐
+- **双语字标：** 中文标准字"京张智脉"与英文 "Jingzhang AI Symbiosis Belt"，横竖两版栅格对齐
 - **色彩体系：** 主色"京张青"、辅色"智脉蓝"、点缀色"内燃橙"，对比度按无障碍标准校验
 - **延展规则：** 会场导视、证件、线上物料共用同一栅格与图形语言，保证跨媒介一致性
 - **开放策略：** 视觉基础组件拟随开源贡献墙以开放许可发布，具体条款以版权声明为准

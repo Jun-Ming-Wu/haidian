@@ -1,9 +1,9 @@
 ---
-title: "Jingzhang Intelligence Pulse · The AI Future of a Century-Old Railway"
+title: "Jingzhang AI Symbiosis Belt · The AI Future of a Century-Old Railway"
 author_github: "Jun-Ming-Wu"
 language: "en"
 license: "COMMUNITY-DISPLAY-ONLY"
-summary: "With the Jingzhang Railway Heritage Park as the cultural spine, this proposal builds the \"One Belt, Three Cores · Intelligence Pulse Symbiosis\" urban design for the AI Innovation Belt: full-stack independent innovation at Zhongzhiyuan, campus-adjacent translation at the Beijing AI Origin Community, and the intelligent economy at Dazhongsi. Through 10 scenario cards, 5 user personas, 3 pilgrimage landmarks, and a three-phase implementation path, the century-old railway heritage is transformed into future-oriented public space and an innovation corridor."
+summary: "With the Jingzhang Railway Heritage Park as the cultural spine, this proposal builds the \"One Belt, Three Cores · AI Symbiosis Beltiosis\" urban design for the AI Innovation Belt: full-stack independent innovation at Zhongzhiyuan, campus-adjacent translation at the Beijing AI Origin Community, and the intelligent economy at Dazhongsi. Through 10 scenario cards, 5 user personas, 3 pilgrimage landmarks, and a three-phase implementation path, the century-old railway heritage is transformed into future-oriented public space and an innovation corridor."
 tracks: ["ai-traffic-walkability", "enterprise-services-ecosystem", "civic-agent-governance"]
 scenarios: ["ai-traffic-walkability", "enterprise-service-copilot", "public-safety-operations-review"]
 iteration: "v2.0"
@@ -12,7 +12,7 @@ bilingual_contract_version: "1"
 translation_of: "proposal.md"
 ---
 
-# Jingzhang Intelligence Pulse · The AI Future of a Century-Old Railway
+# Jingzhang AI Symbiosis Belt · The AI Future of a Century-Old Railway
 
 ## Design Basis and Source Inventory
 
@@ -23,7 +23,7 @@ This proposal is not a standalone vision text: it is organized from the official
 The usage boundaries of the public source registry are as follows:
 
 - data/source_registry.json records the usage boundaries of public, cleared, and provisional materials.
-- Current registry summary: 5 formal-ready sources, 0 background-only sources, and 1 provisional-only source.
+- Current registry summary: 7 formal-ready sources, 1 background-only source, and 1 provisional-only source (9 entries registered in total).
 - An agent must not upgrade background_only or provisional_only materials into official boundaries, statutory controls, formal scoring evidence, or government implementation commitments.
 
 `data/processed/agent_fact_pack.md` is the reading-navigation layer of this proposal, not a new authority [source:PROCESSED-FACT-PACK]. It helps the agent organize the three-level scope, three key areas, announcement tasks, agent.1–agent.6, data availability, and gaps into a readable proposal; all factual judgments still trace back to the announcement source [source:OFFICIAL-ANNOUNCEMENT] and the taskbook source [source:AGENT-TASKBOOK], verified through the registry [source:SOURCE-REGISTRY], with boundary and key-area bases at [source:BOUNDARY-SOURCE] and [source:KEY-AREA-SOURCE].
@@ -54,7 +54,10 @@ The depth items of the three-level framework are governed by [depth:three_level_
 
 ### Naming System and Brand Direction
 
-The overall concept proposed here is the **"Jingzhang AI Symbiosis Belt" (JZ-AI Belt)**. "Intelligence Pulse" (智脉) joins the "pulse" (脉) of the Jingzhang Railway lineage with the "intelligence" (智) of AI, symbolizing the symbiosis of a century of railway heritage and AI innovation — the railway was the artery of the industrial age, AI is the intelligence pulse of the new century, and the two converge here into a future-facing innovation corridor.
+The overall concept proposed here is the **"Jingzhang AI Symbiosis Belt" (JZ-AI Belt)**. The Chinese name 京张智脉共生带 joins the "pulse" (脉) of the Jingzhang Railway lineage with the "intelligence" (智) of AI, symbolizing the symbiosis of a century of railway heritage and AI innovation — the railway was the artery of the industrial age, AI is the intelligence spine of the new century, and the two converge here into a future-facing innovation corridor.
+
+> **Brand hierarchy:** The overall brand is 「京张智脉共生带」 in Chinese with **Jingzhang AI Symbiosis Belt** (JZ-AI Belt) as its single official English name; sub-brands, event brands and communication titles are all subordinate to it. All bilingual deliverables use this official name consistently.
+
 
 **Naming system:**
 
@@ -84,11 +87,13 @@ All such spatial ideas above are conceptual suggestions or reference schemes; th
 
 | Case | City | Core lesson | Haidian application |
 | --- | --- | --- | --- |
-| Sand Hill Road, Silicon Valley | San Francisco | The triangle of venture capital + university origination + entrepreneurial culture | Introduce a "capital–technology–standards" triangle mechanism at Zhongzhiyuan |
-| Shenzhen Nanshan Science Park | Shenzhen | Government-enterprise synergy, rapid iteration, industrial-chain clustering | Apply clustering and rapid-validation models at Dazhongsi |
-| Kashiwa-no-ha Smart City | Tokyo | Public-private partnership, smart-city test field, university-driven development | Build a full-stack test field and standards-governance sandbox at Zhongzhiyuan |
-| Kings Cross, London | London | Railway heritage regeneration, mixed use, public-space-led design | Apply railway-space regeneration strategy to the heritage park |
-| Seoul DMC | Seoul | Digital media city, culture-tech fusion, international communication | Apply culture-tech fusion and international roadshows at Dazhongsi |
+| Sand Hill Road, Silicon Valley | San Francisco | The triangle of venture capital + university origination + entrepreneurial culture | Introduce a "capital–technology–standards" triangle mechanism at Zhongzhiyuan [source:CASE-A01] |
+| Shenzhen Nanshan Science Park | Shenzhen | Government-enterprise synergy, rapid iteration, industrial-chain clustering | Apply clustering and rapid-validation models at Dazhongsi [source:CASE-A02] |
+| Kashiwa-no-ha Smart City | Tokyo | Public-private partnership, smart-city test field, university-driven development | Build a full-stack test field and standards-governance sandbox at Zhongzhiyuan [source:CASE-A03] |
+| Kings Cross, London | London | Railway heritage regeneration, mixed use, public-space-led design | Apply railway-space regeneration strategy to the heritage park [source:CASE-A04] |
+| Seoul DMC | Seoul | Digital media city, culture-tech fusion, international communication | Apply culture-tech fusion and international roadshows at Dazhongsi [source:CASE-A05] |
+
+> **Case source note:** These five cases are common-knowledge **design analogies**; primary literature has not been verified case-by-case. They are registered in sources.json (CASE-A01–A05, class=design_analogy, verified=false) and serve only as conceptual references, not verifiable factual citations. Publisher, title, link, date and licence must be supplied before deepening — otherwise the statements shall be removed.[source:SOURCE-REGISTRY]
 
 ### AI Innovation Ecosystem Map
 
@@ -317,7 +322,7 @@ All scale figures are proposed targets without site-capacity or safety assessmen
 Brand identity centers on a "parallel tracks × neural-network nodes" core graphic, extensible into an event visual system:
 
 - **Core graphic:** five parallel track lines evolving upward into neural-network node connections, symbolizing the century's transformation from railway to AI spine
-- **Bilingual wordmark:** Chinese standard type "京张智脉" with English "Jingzhang AI Spine", grid-aligned in horizontal and vertical versions
+- **Bilingual wordmark:** Chinese standard type "京张智脉" with English "Jingzhang AI Symbiosis Belt", grid-aligned in horizontal and vertical versions
 - **Palette:** primary "Jingzhang Teal", secondary "Spine Blue", accent "Combustion Orange"; contrast checked against accessibility standards
 - **Extension rules:** venue wayfinding, credentials, and online materials share one grid and graphic language for cross-media consistency
 - **Open strategy:** base visual components are intended for open-license release alongside the contribution wall; terms subject to the copyright statement
