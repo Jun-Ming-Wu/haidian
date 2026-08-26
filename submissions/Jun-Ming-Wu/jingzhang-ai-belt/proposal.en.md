@@ -111,6 +111,20 @@ Around the national AI platform, full-stack independent innovation, standard-set
 - **Low-carbon compute experience center:** combining green space to demonstrate distributed computing and edge inference
 - **Qinghe innovation interface:** walking, cycling, exhibition, and social spaces along the Qinghe riverfront
 
+### Regional Synergy Matrix (Conceptual Suggestions)
+
+The coordinated research scope calls for a response on regional synergy [source:AGENT-TASKBOOK]. Following the division of "AI sourcing — conversion — application", the proposal sketches tentative synergy relations with neighboring innovation hubs:
+
+| Counterpart | Proposed division of labor | Proposed interfaces |
+| --- | --- | --- |
+| Beiwei Community | Complementary node for living services and talent amenities | Community co-decision mechanisms; shared public service facilities |
+| Future Science City | Compute and research collaboration in energy and life sciences | Mutual compute backup; joint laboratories |
+| Huairou Science City | Linkage with big-science-facility-driven basic research | Achievement transfer channels; joint graduate programs |
+| Beijing E-Town | Advanced manufacturing and scenario-scale production | Pilot-scale-up bases; supply-chain collaboration |
+| Jing-Jin-Ji region | Tianjin/Hebei manufacturing support and application markets | Technology export; off-site incubation and scenario replication |
+
+All entries above are conceptual suggestions: verified counterpart needs, cooperation interfaces, and commitments are unavailable at this stage; formal synergy requires stakeholder participation and separate justification.
+
 ## Overall Design Scope: Urban Renewal at Regulatory-Plan Urban Design Depth
 
 The overall design scope must reach urban-design depth at the level of regulatory detailed planning [standard:MOHURD-CONTROL-DETAILED-PLANNING]. The proposal sets out the overall renewal spatial structure, identification of underused space, a renewal project list, and implementation policy suggestions.
@@ -236,6 +250,21 @@ All of the above are conceptual suggestions; final forms, locations, and physica
 
 The proposal suggests a sustainable commemorative system: an agent-contributions honor wall, AI milestones, open-source outcome displays, and a global developer honor wall. Selected proposals, their agents, and contributors may leave their names in engraved or other permanent display forms [source:AGENT-TASKBOOK].
 
+### Public Space Component Library (Concept Catalog)
+
+To improve composability and implementability of public space, the following standard component catalog is proposed; all components are concept directions whose selection and depth await key-area detailed design:
+
+| Component | Intended function | Intended location |
+| --- | --- | --- |
+| Smart pole · sensing | Lighting, environmental monitoring, accessible-navigation beacons | Full greenway line |
+| AR heritage columns | Augmented-reality narrative nodes of the railway's centenary | Cultural nodes of the heritage park |
+| Open discussion pods | Semi-enclosed bookable discussion space with collaboration screens | Zhongzhiyuan & Dazhongsi cluster greens |
+| Open-source contribution wall | Live (anonymized, aggregated) display of community code/design contributions | AI Origin Community plaza |
+| Community co-decision screens | Voting on public matters, plan disclosure and feedback | Community service nodes |
+| Quiet rooms & nursing rooms | Inclusive facilities during high-density events | Around event venues |
+| Accessible guidance posts | Guidance for visually-impaired/wheelchair routes with call buttons | All public spaces |
+| Reconfigurable market modules | Standardized rapid-assembly units for market/exhibition switching | Dazhongsi & Xiaoyuehe wing |
+
 ## Centennial Jingzhang Cultural Narrative (agent.5)
 
 ### Three-Layer Cultural Narrative
@@ -264,10 +293,12 @@ The cultural narrative and signage directions are conceptual suggestions; brands
 
 | Event | Timing | Scale | Venue | Operator |
 | --- | --- | --- | --- | --- |
-| Jingzhang AI Innovation Week | Every May | 5,000+ people | Full heritage park line | Haidian District + open-city.ai |
-| Global Developers Conference | Every October | 3,000+ people | AI Origin Community | Open-source community consortium |
-| Open-Source Outcomes Festival | Every August | 2,000+ people | Zhongzhiyuan | Industry-academia-research alliance |
-| AI City Experience Day | Quarterly | 500+ people | Dazhongsi + Xiaoyuehe wing | Enterprises + community |
+| Jingzhang AI Innovation Week | Every May | 5,000+ people | Full heritage park line | Haidian District authorities + open-city.ai (all proposed) |
+| Global Developers Conference | Every October | 3,000+ people | AI Origin Community | Open-source community consortium (proposed) |
+| Open-Source Outcomes Festival | Every August | 2,000+ people | Zhongzhiyuan | Industry-academia-research alliance (proposed) |
+| AI City Experience Day | Quarterly | 500+ people | Dazhongsi + Xiaoyuehe wing | Enterprises + community (proposed) |
+
+All scale figures are proposed targets without site-capacity or safety assessments; operators and cooperation authorizations remain at proposal stage and require confirmation by competent local authorities and venue owners before serving as commitments.
 
 ### Developer Community Operations
 
@@ -281,7 +312,17 @@ The cultural narrative and signage directions are conceptual suggestions; brands
 - **Global AI city network:** exchange mechanisms with Silicon Valley, London, Tokyo, Seoul, and other AI clusters
 - **Conversion path:** concept → pilot validation → scaled rollout → international export
 
-The event system and operations mechanisms are conceptual suggestions and do not constitute confirmed government programs or implementation arrangements [source:AGENT-TASKBOOK].
+### Event Brand Visual System Direction (Concept)
+
+Brand identity centers on a "parallel tracks × neural-network nodes" core graphic, extensible into an event visual system:
+
+- **Core graphic:** five parallel track lines evolving upward into neural-network node connections, symbolizing the century's transformation from railway to AI spine
+- **Bilingual wordmark:** Chinese standard type "京张智脉" with English "Jingzhang AI Spine", grid-aligned in horizontal and vertical versions
+- **Palette:** primary "Jingzhang Teal", secondary "Spine Blue", accent "Combustion Orange"; contrast checked against accessibility standards
+- **Extension rules:** venue wayfinding, credentials, and online materials share one grid and graphic language for cross-media consistency
+- **Open strategy:** base visual components are intended for open-license release alongside the contribution wall; terms subject to the copyright statement
+
+The event system, operations mechanisms, and visual system are conceptual suggestions and do not constitute confirmed government programs or implementation arrangements [source:AGENT-TASKBOOK].
 
 ## Land Use, Building Scale, and Retain/Renovate/Demolish Scheme
 

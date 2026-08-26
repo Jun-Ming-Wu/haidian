@@ -10,10 +10,7 @@
       "ok": true,
       "errors": [],
       "warnings": [
-        "submissions/Jun-Ming-Wu/jingzhang-ai-belt/geometry/site_boundary.geojson: uses provisional boundary; do not treat it as an official redline or precise-area basis. Organizer data gaps do not block content scoring; recalculate when official geometry is supplied",
-        "submissions/Jun-Ming-Wu/jingzhang-ai-belt/assets/figures/key-areas.en.png: byte-identical to `assets/figures/key-areas.png`; if the translation is still missing, replace it with a rendering in the declared language, and if the file carries no language-specific content, declare language=neutral once and share it between both versions (see docs/formal-submission-guide.md); this notice does not block review",
-        "submissions/Jun-Ming-Wu/jingzhang-ai-belt/assets/figures/metrics-evidence.en.png: byte-identical to `assets/figures/metrics-evidence.png`; if the translation is still missing, replace it with a rendering in the declared language, and if the file carries no language-specific content, declare language=neutral once and share it between both versions (see docs/formal-submission-guide.md); this notice does not block review",
-        "submissions/Jun-Ming-Wu/jingzhang-ai-belt/assets/figures/mobility-bluegreen.en.png: byte-identical to `assets/figures/mobility-bluegreen.png`; if the translation is still missing, replace it with a rendering in the declared language, and if the file carries no language-specific content, declare language=neutral once and share it between both versions (see docs/formal-submission-guide.md); this notice does not block review"
+        "submissions/Jun-Ming-Wu/jingzhang-ai-belt/geometry/site_boundary.geojson: uses provisional boundary; do not treat it as an official redline or precise-area basis. Organizer data gaps do not block content scoring; recalculate when official geometry is supplied"
       ],
       "proposal_files": [
         "submissions/Jun-Ming-Wu/jingzhang-ai-belt/proposal.md"
@@ -64,7 +61,7 @@
       "ai_package_stages": {
         "submissions/Jun-Ming-Wu/jingzhang-ai-belt": "formal"
       },
-      "total_bytes": 1795134,
+      "total_bytes": 7873618,
       "maintainer_bypass": false
     },
     "stderr": ""
