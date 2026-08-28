@@ -83,7 +83,7 @@ All such spatial ideas above are conceptual suggestions or reference schemes; th
 
 ## Coordinated Research: Industry and Future-City Study (agent.2)
 
-### Global AI Innovation Ecosystem Cases (5)
+### Global AI Innovation Ecosystem Design Analogies (5; not factual citations)
 
 | Case | City | Core lesson | Haidian application |
 | --- | --- | --- | --- |
@@ -93,7 +93,7 @@ All such spatial ideas above are conceptual suggestions or reference schemes; th
 | Kings Cross, London | London | Railway heritage regeneration, mixed use, public-space-led design | Apply railway-space regeneration strategy to the heritage park [source:CASE-A04] |
 | Seoul DMC | Seoul | Digital media city, culture-tech fusion, international communication | Apply culture-tech fusion and international roadshows at Dazhongsi [source:CASE-A05] |
 
-> **Case source note:** These five cases are common-knowledge **design analogies**; primary literature has not been verified case-by-case. They are registered in sources.json (CASE-A01–A05, class=design_analogy, verified=false) and serve only as conceptual references, not verifiable factual citations. Publisher, title, link, date and licence must be supplied before deepening — otherwise the statements shall be removed.[source:SOURCE-REGISTRY]
+> **Case source note:** This proposal was generated and submitted from an environment with no external network egress, so the underlying literature could not be verified online. All five cases are therefore **treated strictly as design analogies**: they inform concept framing only, constitute no verifiable factual citation, and support no metric, boundary, or spatial conclusion in this document; removing any case does not affect the core argument. `sources.json` (CASE-A01–A05) registers a candidate authoritative reference (publisher, title, URL) for each case, all flagged unverified; during deepening, a team with network access must confirm each item before any citation upgrade. Until then they remain analogies. [source:SOURCE-REGISTRY]
 
 ### AI Innovation Ecosystem Map
 
@@ -255,6 +255,8 @@ All of the above are conceptual suggestions; final forms, locations, and physica
 
 The proposal suggests a sustainable commemorative system: an agent-contributions honor wall, AI milestones, open-source outcome displays, and a global developer honor wall. Selected proposals, their agents, and contributors may leave their names in engraved or other permanent display forms [source:AGENT-TASKBOOK].
 
+**Governance clauses for contribution and honor walls (concept proposal)**: all attribution is **opt-in** — contributors authorize inclusion of their identifier through explicit confirmation at submission time; non-consenting contributions appear only as anonymized aggregate statistics. Display follows **data-minimization**: by default only the project codename, a contribution-hash prefix, and an optionally public nickname are shown; real names, avatars, contact details, or other directly identifying information are neither collected nor displayed. Contributors may **request withdrawal at any time**: online displays are removed within a committed turnaround (turnaround set at decision gate G2), physically engraved portions are addressed by full-panel re-engraving or plaque covering, and the technical limits of withdrawal are documented in the copyright statement. An **appeal and review channel** is provided: a proposed open-source community committee (including community representatives and legal support) hears objections, corrections, and takedown requests; handling is logged and published in annual summaries; attribution by minors is not accepted. These clauses are consistent with the personal-data minimization and non-traceable aggregation boundaries declared in the scenario cards; the formal clause text is published together with `report/copyright_statement.md`.
+
 ### Public Space Component Library (Concept Catalog)
 
 To improve composability and implementability of public space, the following standard component catalog is proposed; all components are concept directions whose selection and depth await key-area detailed design:
@@ -379,6 +381,55 @@ Project-list and phasing depth is governed by [depth:renewal_project_list] and [
 - **Long-term deepening (2030–2035):** Dazhongsi industry area; full-line operations and international engagement [data:geometry/phasing.geojson#PHASE-003]
 
 Without ownership, funding, implementation bodies, and approval pathways, the plan records these as implementation risks rather than delivery commitments.
+
+### Implementation Matrix: Priority Criteria, Proposed Roles, Decision Gates, and Stop Conditions
+
+This subsection advances JZ-01–06 from a project list into a decision-ready implementation framework. All content is a concept proposal and proposed arrangement; it does not constitute an investment, approval, or operations commitment. All KPI targets take effect only after being set by formal bodies at decision gate G2 [depth:renewal_project_list] [depth:phasing_implementation].
+
+**Priority criteria (0–2 points each, 8 maximum)**: (1) public-accessibility gain — does it remove an existing gap or open a closed interface; (2) campus/station synergy — does it directly serve university users and rail passengers; (3) light-asset reversibility — can temporary structures, events, and operations lead with minimal construction; (4) governance demonstration value — can it yield replicable standards, agreements, or data-governance templates. Scores of 6–8 are P1 (first wave), 4–5 P2, 0–3 P3.
+
+| ID | (1) Access | (2) Campus/Station | (3) Reversible | (4) Governance | Total | Priority |
+| --- | --- | --- | --- | --- | --- | --- |
+| JZ-01 | 2 | 1 | 2 | 1 | 6 | P1 |
+| JZ-03 | 1 | 2 | 2 | 1 | 6 | P1 |
+| JZ-04 | 2 | 2 | 1 | 1 | 6 | P1 |
+| JZ-06 | 2 | 1 | 1 | 1 | 5 | P2 |
+| JZ-05 | 1 | 1 | 0 | 2 | 4 | P2 |
+| JZ-02 | 1 | 0 | 0 | 1 | 2 | P3 |
+
+Priority governs launch order and resource tilt only; it does not change phased spatial attribution. P3 projects do not enter design deepening until their dependencies are verified.
+
+**Proposed role types (RACI-lite; typological placeholders, not named institutions)**
+
+| ID | Approver A (proposed type) | Deliverer R (proposed type) | Key consultees C |
+| --- | --- | --- | --- |
+| JZ-01 | Municipal/district planning authorities | Local platform company + sub-district | Railway property and operator, traffic management, municipal utilities owners |
+| JZ-02 | Water, landscape, and planning departments | River-basin or district platform company | River owner, flood-control authority, ecological organizations |
+| JZ-03 | Local sub-district government | University incubation platform + commercial operator | University asset manager, prospective tenants, community representatives |
+| JZ-04 | Transport authority + rail property owner | Platform company + design institute | Metro operator, bus companies, pipeline owners |
+| JZ-05 | Economy/informatization and data authorities | State-owned compute platform | Energy supplier, security review bodies, universities and institutes |
+| JZ-06 | Culture-tourism and publicity authorities | Professional operator + open-source community | Large-event safety authority, venue owners, copyright holders |
+
+**Resource magnitude (cost grades; planning convention reference, not a cost estimate)**: L1 light = signage, temporary structures, events, and software-type platform investment; L2 medium = block-scale construction such as slow-mobility links and ground-floor retrofits; L3 heavy = utility expansion, river-engineering, or purpose-built infrastructure. Mapping: JZ-01 starts at L1, full delivery L2; JZ-02 is L3; JZ-03 is L1–L2; JZ-04 is L2; JZ-05 is L3; JZ-06 is L1. Formal investment decisions require feasibility studies.
+
+**Decision gates (no stage advance without passing; reasons for failure are recorded publicly)**
+
+- **G1 Pre-screening gate (enter deepening)**: ownership verification complete + control elements (red-line/blue-line) rechecked + stakeholder register established.
+- **G2 Approval gate (enter delivery)**: funding channel and cost grade secured + implementing body designated + KPI targets and stop conditions signed.
+- **G3 Review gate (expand, adjust, or terminate)**: after one full operating cycle, decide on measured KPI evidence.
+
+**Milestones, KPI families, and stop conditions (targets set at G2; this plan specifies metric families only, no committed values)**
+
+| ID | Milestones (proposed) | KPI family | Stop/exit trigger (proposed) |
+| --- | --- | --- | --- |
+| JZ-01 | Gap inventory ratified → pilot segment built | Gaps removed, cross-rail detour coefficient change | Pilot usage below set floor for two consecutive quarters → pause remaining segments |
+| JZ-02 | Hydrology/ecology recheck → concept deepening | Interface length opened, compliant waterfront events | Flood-control or ecological red-line veto → segment permanently shelved |
+| JZ-03 | Ground-floor tenancy signed → street opening | University-origin tenants, ground-floor vacancy rate | Vacancy above threshold for two assessment periods → convert to civic use |
+| JZ-04 | Four-quadrant design stable → connection opens | Crossing-detour reduction, peak travel time | Safety incident liability unresolved → closure for rectification |
+| JZ-05 | Power/safety assessment → node trial operation | Compute utilization, service calls, safety-event closure rate | Utilization persistently low and safety non-compliant → stop building, switch to leased service |
+| JZ-06 | Route permits obtained → first edition delivered | Sessions, attendance (capped by certified venue capacity), complaint rate | Capacity or safety exceeded → scale down to block level |
+
+Event capacity is always capped by venue-certified maximum occupancy; this plan presupposes no uncertified headcounts. Operating risks (missing bodies, permit uncertainty, funding gaps) are maintained in `missing_data_checklist.csv` in liaison with the risk chapter.
 
 ## Metrics, Area Recalculation, and Compliance Matrix
 
